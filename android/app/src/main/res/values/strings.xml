@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">secondhand</string>
+<string name="facebook_app_id">1083572732582644</string>
+<string name="fb_login_protocol_scheme">fb1083572732582644</string>
+<string name="facebook_client_token">33469a2cbb552afb00e58148dc4af1d0</string>
+</resources>

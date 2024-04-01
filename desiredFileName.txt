@@ -1,0 +1,85 @@
+{
+  "de": [
+    "deleting"
+  ],
+
+  "es": [
+    "deleting",
+    "industrial_supplier",
+    "share",
+    "contact_seller",
+    "set_max_price"
+  ],
+
+  "fa": [
+    "deleting",
+    "industrial_supplier",
+    "share",
+    "contact_seller",
+    "set_max_price"
+  ],
+
+  "fr": [
+    "deleting",
+    "industrial_supplier",
+    "share",
+    "contact_seller",
+    "set_max_price"
+  ],
+
+  "he": [
+    "deleting",
+    "industrial_supplier",
+    "share",
+    "contact_seller",
+    "set_max_price"
+  ],
+
+  "it": [
+    "deleting",
+    "industrial_supplier",
+    "share",
+    "contact_seller",
+    "set_max_price"
+  ],
+
+  "pl": [
+    "deleting",
+    "industrial_supplier",
+    "share",
+    "contact_seller",
+    "set_max_price"
+  ],
+
+  "pt": [
+    "deleting",
+    "industrial_supplier",
+    "share",
+    "contact_seller",
+    "set_max_price"
+  ],
+
+  "ru": [
+    "deleting",
+    "industrial_supplier",
+    "share",
+    "contact_seller",
+    "set_max_price"
+  ],
+
+  "th": [
+    "deleting",
+    "industrial_supplier",
+    "share",
+    "contact_seller",
+    "set_max_price"
+  ],
+
+  "uk": [
+    "deleting",
+    "industrial_supplier",
+    "share",
+    "contact_seller",
+    "set_max_price"
+  ]
+}

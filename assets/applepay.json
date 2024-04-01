@@ -1,0 +1,22 @@
+{
+  "provider": "apple_pay",
+  "data": {
+    "merchantIdentifier": "merchant.secondhand_mh6",
+    "displayName": "SecondHand",
+    "merchantCapabilities": [
+      "3DS",
+      "debit",
+      "credit"
+    ],
+    "supportedNetworks": [
+      "amex",
+      "visa",
+      "discover",
+      "masterCard"
+    ],
+    "countryCode": "DE",
+    "currencyCode": "EUR",
+    "requiredBillingContactFields": null,
+    "requiredShippingContactFields": null
+  }
+}

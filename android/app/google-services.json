@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "864044114127",
+    "project_id": "secondhand-7ba51",
+    "storage_bucket": "secondhand-7ba51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864044114127:android:f79f4b865481933ed417ba",
+        "android_client_info": {
+          "package_name": "de.mh_6.second_hand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864044114127-2ik4clgdqgbsesobrj4s4brvghbggv31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvoNqnoi4_AKmwiOyXjaQiy3s6u4Odbmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864044114127-2ik4clgdqgbsesobrj4s4brvghbggv31.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "864044114127-50dju32c582rjpetf7alffutit14aft0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.secondhand.used"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864044114127:android:d73f5e833399e776d417ba",
+        "android_client_info": {
+          "package_name": "de.mh_6.secondhand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864044114127-2ik4clgdqgbsesobrj4s4brvghbggv31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvoNqnoi4_AKmwiOyXjaQiy3s6u4Odbmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864044114127-2ik4clgdqgbsesobrj4s4brvghbggv31.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "864044114127-50dju32c582rjpetf7alffutit14aft0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.secondhand.used"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
